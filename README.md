@@ -1,5 +1,34 @@
-# FreeCAD1.1.1-RingWorkbench
-FreeCAD Ring Workbench: One-click jewelry modeling! Instantly generate rings with diamonds and custom engravings. Supports unique shapes like Hearts, Crescent Moons, and Magatama. Perfect for rapid design and beginners.
-YouTube➡https://youtu.be/-XYYnfkqKkc
-<img width="731" height="681" alt="2026-05-06_21h42_54" src="https://github.com/user-attachments/assets/a57ce851-d639-4996-83ae-ff04621d0b60" />
-<img width="2460" height="1384" alt="装飾ワークベンチ" src="https://github.com/user-attachments/assets/1fdfde6b-4197-47e5-8e54-69671e3ebfee" />
+# FreeCAD-ShapeGenerator-Workbench
+
+An easy-to-use workbench for **FreeCAD 1.1.1** that allows you to instantly generate popular shapes—**Rings, Magatama beads, Hearts, Stars, and traditional Japanese Hanko seals**—with just a few clicks. 
+
+No complex sketching required. Perfect for hobbyists, accessory designers, and 3D printing enthusiasts!
+
+---
+
+## ✨ Key Features
+
+| Shape | Description |
+| :--- | :--- |
+| 💍 **Ring Generator** | Quickly create custom rings with adjustable diameters, band widths, and thicknesses. |
+| 🌀 **Magatama Maker** | Easily model the traditional Japanese comma-shaped gemstone with parameterized curves. |
+| ❤️ **Heart & ⭐ Star** | Parametric generation of beautiful hearts and stars, perfect for jewelry or decorative items. |
+| 🪪 **Hanko Seal Creator** | Design your own traditional Japanese style name seal/stamp instantly. |
+
+## 🚀 Target Users
+* **3D Printing Enthusiasts:** Pop out quick shapes for testing or printing.
+* **Jewelry & Accessory Designers:** Create bases for rings and pendants in seconds.
+* **Hobbyists:** Skip the boilerplate sketching phase for creative projects.
+
+## 🛠️ Compatibility
+* Fully optimized for **FreeCAD 1.1.1** (Development/Release version).
+
+## 📦 Installation
+1. Download the repository as a ZIP file.
+2. Extract it into your FreeCAD `Mod` directory.
+3. Restart FreeCAD.
+
+---
+
+### 📷 Screenshots
+*Add your beautiful screenshots or GIFs here to attract more users!*
