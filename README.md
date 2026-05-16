@@ -1,9 +1,7 @@
 # FreeCAD-RingGenerator-Workbench
 
 An easy-to-use workbench for **FreeCAD 1.1.1** that allows you to instantly generate popular shapes—**Rings, Magatama beads, Hearts, Stars, and traditional Japanese Hanko seals**—with just a few clicks. 
-
 No complex sketching required. Perfect for hobbyists, accessory designers, and 3D printing enthusiasts!
-
 ---
 
 ## ✨ Key Features
@@ -28,7 +26,9 @@ No complex sketching required. Perfect for hobbyists, accessory designers, and 3
 2. Extract it into your FreeCAD `Mod` directory.
 3. Restart FreeCAD.
 
----
+## URL
+https://www.freecad-horilab.com/2026/05/horilab-freecadfreecad-ver11.html
+https://youtu.be/1CYejz3JGtI
 
 ### 📷 Screenshots
 *Add your beautiful screenshots or GIFs here to attract more users!*
