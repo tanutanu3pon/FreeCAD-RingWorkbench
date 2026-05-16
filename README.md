@@ -32,3 +32,6 @@ No complex sketching required. Perfect for hobbyists, accessory designers, and 3
 
 ### 📷 Screenshots
 *Add your beautiful screenshots or GIFs here to attract more users!*
+<img width="1024" height="572" alt="noname" src="https://github.com/user-attachments/assets/4c7b368a-1f00-41f1-98f5-cb1bbd3879f3" />
+<img width="1292" height="590" alt="2026-05-16_16h55_59" src="https://github.com/user-attachments/assets/1248b2dc-13ad-480c-be4e-880adacd350e" />
+
