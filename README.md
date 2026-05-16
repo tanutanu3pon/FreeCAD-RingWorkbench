@@ -1,4 +1,4 @@
-# FreeCAD-ShapeGenerator-Workbench
+# FreeCAD-RingGenerator-Workbench
 
 An easy-to-use workbench for **FreeCAD 1.1.1** that allows you to instantly generate popular shapes—**Rings, Magatama beads, Hearts, Stars, and traditional Japanese Hanko seals**—with just a few clicks. 
 
